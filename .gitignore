@@ -5,3 +5,4 @@
 *.gitignore
 venv/
 __pycache__/
+downloaded_videos/
